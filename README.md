@@ -10,11 +10,11 @@
 </h1>
 
 <p>
-  💻 Tecnologias Trabalhadas<br/><br/> 
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  
+💻 Tecnologias e Vendors Trabalhados<br/><br/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/Juniper_Networks-000000?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper Networks" />
+<img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei" />
+<img src="https://img.shields.io/badge/Nokia-124191?style=for-the-badge&logo=nokia&logoColor=white" alt="Nokia" />
 </p>
 
 ##
