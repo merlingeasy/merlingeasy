@@ -5,10 +5,6 @@
 - 📚 Network Analyst
 
 
-<h1 align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=merlingeasy&show_icons=true&count_private=true&theme=radical" width="350"></a>
-</h1>
-
 <p>
 💻 Tecnologias e Vendors Trabalhados<br/><br/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
