@@ -2,7 +2,7 @@
 
 - 👨‍💻 Trabalho atualmente como Analista de Redes pleno numa Telecom
 - 📖 Estudando para a CCNA
-- 📚 Network Analyst
+- 📚 Analista de redes Pleno - Alares Internet
 
 
 <p>
