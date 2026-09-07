@@ -1,9 +1,9 @@
 <h1 align='center'> Bem vindo ao meu perfil, eu sou o Guilherme!</h1>
 
-- 👨‍💻 Trabalho atualmente como Assistente de Redes numa Telecom
-- 📖 Estudando Cybersecurity e apaixonado por Pentest
-- 📚 DCPT in Progress
-- 🧙 Otaku de carteirinha
+- 👨‍💻 Trabalho atualmente como Analista de Redes pleno numa Telecom
+- 📖 Estudando para a CCNA
+- 📚 Network Analyst
+
 
 <h1 align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=merlingeasy&show_icons=true&count_private=true&theme=radical" width="350"></a>
